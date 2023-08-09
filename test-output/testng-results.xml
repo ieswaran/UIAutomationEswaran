@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-06T00:13:27 IST" name="Default suite" finished-at="2023-08-06T00:13:57 IST" duration-ms="30124">
+    <groups>
+    </groups>
+    <test started-at="2023-08-06T00:13:27 IST" name="Default test" finished-at="2023-08-06T00:13:57 IST" duration-ms="30124">
+      <class name="com.sdet.testcase.TC003_CreateLead_Faker">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.sdet.testcase.TC003_CreateLead_Faker@6bb4dd34]" started-at="2023-08-06T00:13:26 IST" name="startReport" finished-at="2023-08-06T00:13:27 IST" duration-ms="573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setData()[pri:0, instance:com.sdet.testcase.TC003_CreateLead_Faker@6bb4dd34]" started-at="2023-08-06T00:13:27 IST" name="setData" finished-at="2023-08-06T00:13:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.sdet.testcase.TC003_CreateLead_Faker@6bb4dd34]" started-at="2023-08-06T00:13:27 IST" name="report" finished-at="2023-08-06T00:13:27 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.sdet.testcase.TC003_CreateLead_Faker@6bb4dd34]" started-at="2023-08-06T00:13:27 IST" name="beforeMethod" finished-at="2023-08-06T00:13:35 IST" duration-ms="8421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="createLead()[pri:0, instance:com.sdet.testcase.TC003_CreateLead_Faker@6bb4dd34]" started-at="2023-08-06T00:13:35 IST" name="createLead" finished-at="2023-08-06T00:13:57 IST" duration-ms="21423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.sdet.testcase.TC003_CreateLead_Faker@6bb4dd34]" started-at="2023-08-06T00:13:57 IST" name="afterMethod" finished-at="2023-08-06T00:13:57 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="stopReport()[pri:0, instance:com.sdet.testcase.TC003_CreateLead_Faker@6bb4dd34]" started-at="2023-08-06T00:13:57 IST" name="stopReport" finished-at="2023-08-06T00:13:57 IST" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- com.sdet.testcase.TC003_CreateLead_Faker -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
